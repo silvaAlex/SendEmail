@@ -1,0 +1,17 @@
+#ignore files
+*.com
+*.class
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.suo
+#ignore directories
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# local env files
+.env.local
+.env.*.local
