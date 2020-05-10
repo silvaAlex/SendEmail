@@ -1,5 +1,5 @@
 <h4 align="center">
-  SendEmail biblioteca para envio de email assicrono
+  SendEmail biblioteca para envio de email assíncrono
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/silvaAlex/SendEmail">
